@@ -1,5 +1,8 @@
 # Real-Time-Ride-Matching-System
-Real-Time Ride Matching System built using ASP.NET Core (version 6.0) and SQL Server(22).
+steps To Run :
+-Download Entire source code run Visual studio 2022 and run from Open Project location
+-For DB There is ApexTravel.Bak file By using that all dB entity and SP will get setup
+-Real-Time Ride Matching System built using ASP.NET Core (version 6.0) and SQL Server(22).
 
 This project demonstrates a scalable backend architecture for a ride booking platform where riders can request rides and nearby available drivers are matched in real time using geolocation-based distance calculation.
 
